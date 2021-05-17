@@ -63,8 +63,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   $ npm run dev   # or: yarn dev
 
   # Check out the pages at:
-  $ http://localhost:3333/pages/clients   //Client page
-  $ http://localhost:3333/pages/admin     //Admin page
+  $ http://localhost:3333/pages/clients   # Client page
+  $ http://localhost:3333/pages/admin     # Admin page
   
 ```
   
