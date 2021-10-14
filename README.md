@@ -44,28 +44,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🗂️ Utilização <a name="usage"></a>
 
-### 📥 Baixando o código:
+### 🐑🐑 Clonando o repositório:
 
 ```bash
-  # Clone the repository
   $ git clone https://github.com/Alessandro1918/Chat-NLW-05.git
+```
+
+### 📥 Baixando as dependências:
+
+```bash
+  $ cd chat-NLW-05
+  
+  # Download dependencies to node_modules
+  $ npm install   # or: yarn
 ```
 
 ### ▶️ Rodando o App:
 
-```sh
-  $ cd chat-NLW-05
-  
-  # Install dependencies.
-  $ npm install   # or: yarn
-  
+```bash
   # Start the project:
   $ npm run dev   # or: yarn dev
 
   # Check out the pages at:
   $ http://localhost:3333/pages/clients   # Client page
   $ http://localhost:3333/pages/admin     # Admin page
-  
 ```
   
   
